@@ -1,0 +1,15 @@
+C:\Users\Estudante\Desktop\kaue_dev\varzea\Xadrez\Xadrez\bin\Debug\net6.0\Xadrez.exe
+C:\Users\Estudante\Desktop\kaue_dev\varzea\Xadrez\Xadrez\bin\Debug\net6.0\Xadrez.deps.json
+C:\Users\Estudante\Desktop\kaue_dev\varzea\Xadrez\Xadrez\bin\Debug\net6.0\Xadrez.runtimeconfig.json
+C:\Users\Estudante\Desktop\kaue_dev\varzea\Xadrez\Xadrez\bin\Debug\net6.0\Xadrez.dll
+C:\Users\Estudante\Desktop\kaue_dev\varzea\Xadrez\Xadrez\bin\Debug\net6.0\Xadrez.pdb
+C:\Users\Estudante\Desktop\kaue_dev\varzea\Xadrez\Xadrez\obj\Debug\net6.0\Xadrez.csproj.AssemblyReference.cache
+C:\Users\Estudante\Desktop\kaue_dev\varzea\Xadrez\Xadrez\obj\Debug\net6.0\Xadrez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudante\Desktop\kaue_dev\varzea\Xadrez\Xadrez\obj\Debug\net6.0\Xadrez.AssemblyInfoInputs.cache
+C:\Users\Estudante\Desktop\kaue_dev\varzea\Xadrez\Xadrez\obj\Debug\net6.0\Xadrez.AssemblyInfo.cs
+C:\Users\Estudante\Desktop\kaue_dev\varzea\Xadrez\Xadrez\obj\Debug\net6.0\Xadrez.csproj.CoreCompileInputs.cache
+C:\Users\Estudante\Desktop\kaue_dev\varzea\Xadrez\Xadrez\obj\Debug\net6.0\Xadrez.dll
+C:\Users\Estudante\Desktop\kaue_dev\varzea\Xadrez\Xadrez\obj\Debug\net6.0\refint\Xadrez.dll
+C:\Users\Estudante\Desktop\kaue_dev\varzea\Xadrez\Xadrez\obj\Debug\net6.0\Xadrez.pdb
+C:\Users\Estudante\Desktop\kaue_dev\varzea\Xadrez\Xadrez\obj\Debug\net6.0\Xadrez.genruntimeconfig.cache
+C:\Users\Estudante\Desktop\kaue_dev\varzea\Xadrez\Xadrez\obj\Debug\net6.0\ref\Xadrez.dll
